@@ -1,3 +1,11 @@
+---
+name: User Story
+about: Create a user story for the Agile Final Project
+title: ''
+labels: ''
+assignees: ''
+---
+
 ## User Story
 
 **As a** [role/persona]
